@@ -4,7 +4,10 @@
 This is the official repository for the paper **“PEARL: Peer‑Enhanced Adaptive Radio via On‑Device LLM”** accepted at **NeurIPS'25 (AI4NextG Workshop)** (arXiv:2509.24085, 2025).
 
 ## Demo Videos
+<div align="center">
 <table> <tr> <td align="center"> <a href="https://youtu.be/7m9UCowiKh4"> <img src="https://img.youtube.com/vi/7m9UCowiKh4/0.jpg" width="280"><br> iPad Pro Demo (NeurIPS'25 @AI4NextG) </a> </td> </tr> </table>
+</div>
+
 
 ## Highlights
 
