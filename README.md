@@ -5,8 +5,25 @@ This is the official repository for the paper **“PEARL: Peer‑Enhanced Adapti
 
 ## Demo Videos
 <div align="center">
-<table> <tr> <td align="center"> <a href="https://youtu.be/7m9UCowiKh4"> <img src="https://img.youtube.com/vi/7m9UCowiKh4/0.jpg" width="280"><br> iPad Pro Demo (NeurIPS'25 @AI4NextG) </a> </td> </tr> </table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/7m9UCowiKh4">
+        <img src="https://img.youtube.com/vi/7m9UCowiKh4/0.jpg" width="280"><br>
+        iPad Pro Demo (NeurIPS'25 @AI4NextG)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/yK59pwtLrj8">
+        <img src="https://img.youtube.com/vi/yK59pwtLrj8/0.jpg" width="280"><br>
+        Captioned Walkthrough Demo
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
+
+
 
 
 ## Highlights
